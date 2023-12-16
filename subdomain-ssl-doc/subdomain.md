@@ -158,4 +158,4 @@ Click on the `Certificate ID or Name`
 
 **Successfully modified listener message should display if successful**
 
-9. Enter your newly created subdomain in a browser, it should have https.
+**Enter your newly created subdomain in a browser, it should have https.**
