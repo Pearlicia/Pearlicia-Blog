@@ -59,25 +59,20 @@ CMD ["npm","run","start"]
 ## Step 3: Add Docker Hub Username and Password to Github Secrets
 
 1. On your github account: Go to your project repository and click on `Settings`
-
 ![settings-button](./assets/github-settings-button.png)
 
 2. On the left panel under `security` click on **`Secrets and variables`**
-
 ![secrets-and-variables](./assets/secrets-n-variables.png)
 
 3. Under `Secrets and variables` click on **`Actions`**
-
 ![Actions-button](./assets/actions-button.png)
 
 4. Click on the green `New repository secret` button
-
 ![new-secret-button](./assets/new-secret.png)
 
 5. On the `Name` field enter **`DOCKER_USERNAME`**
   - On the `Secret` field enter your docker hub username
   - Then click on the green `Add secret` button
-
 ![secret-form](./assets/secret-form.png)
 
 6. Repeat step 4 and 5 but this time
