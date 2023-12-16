@@ -1,7 +1,7 @@
 ## Deploying a Node Express server on Amazon EC2 with Docker and GitHub Actions.
 
 We will delve into the topics of automated deployment and containerisation in this guide. Using GitHub Actions, I will walk you through the process of dockerizing a basic node.js application and deploying it to an Amazon EC2 instance.
-[Read More](ectwo-docker-actions.md)
+[Read More](./ec2-docker-git-actions/ectwo-docker-actions.md)
 
 
 ## Subdomain Creation and Elastic Beanstalk Integration
