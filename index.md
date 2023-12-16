@@ -1,5 +1,10 @@
+## Deploying a Node Express server on Amazon EC2 with Docker and GitHub Actions.
+
+We will delve into the topics of automated deployment and containerisation in this guide. Using GitHub Actions, I will walk you through the process of dockerizing a basic node.js application and deploying it to an Amazon EC2 instance.
+[Read More](ectwo-docker-actions.md)
+
+
 ## Pros and Cons of Using Terraform
-![terraform-image](./assets/terraform-img.png)
 In the realm of Infrastructure as Code (IaC), Terraform has risen to prominence as a powerful tool for provisioning, managing, and scaling cloud infrastructure. While Terraform offers numerous advantages, it's essential to understand when and when not to use it in your DevOps journey.
 [Read More](reasons-to-use-terraform.md)
 
