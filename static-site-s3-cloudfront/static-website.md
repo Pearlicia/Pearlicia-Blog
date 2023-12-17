@@ -97,8 +97,8 @@ We need to upload some html code to our S3 bucket.
     </ul>
 </body>
 </html>
-
 ```
+
 Save it in your system, You can open notepad or IDE and paste the html code, save it as index.html
 
 2. Go back to S3, click open the bucket name
