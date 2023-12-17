@@ -65,6 +65,7 @@ When naming our buckets in AWS S3, it's important to know they have a global pre
 We need to upload some html code to our S3 bucket.
 
 1. Copy the code below or use your own html code
+   
 ```html
 <!DOCTYPE html>
 <html>
