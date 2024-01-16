@@ -1,3 +1,8 @@
+## Comprehending DevRel
+![Devrel](./assets/devrel.png)
+Developer Relations, or DevRel for short, is a critical position that has emerged in the rapidly changing technology landscape. Its purpose is to serve as a bridge between developers and the broader community. We will discuss the foundations of DevRel, its importance in the tech sector, and how it might be a fulfilling career path for people who are enthusiastic about technology and community involvement in this guide.
+[Read More](./devrel.md)
+
 ## Creating a Static Website Host: Manual vs. Automated (using Terraform)
 ![Architecture](./assets/architecture-manual.png)
 Knowing how to manually set up a static website host is a necessary prerequisite to automating the entire process, particularly if you're not familiar with cloud computing. You can better understand how everything is connected by getting hands-on experience by clicking through the cloud resources, much like you learn basic maths before using a calculator.
