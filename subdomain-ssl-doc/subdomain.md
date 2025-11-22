@@ -77,7 +77,7 @@ Click on the `Certificate ID or Name`
 9. Wait for one to five minutes and refresh your page, the validation status should change from **`Pending validation`** to **`Issued`**
 ![issued](./assets/certificate/cert-issued.png)
 
-## Step Four: Add Listener on Elastic Loadbalancer
+## Step Four: Add Listener on Elastic Beanstalk
 
 1. Search for `elastic beanstalk` and click on it
 ![ebs-search](./assets/ebs/ebs-search.png)
@@ -110,7 +110,7 @@ Click on the `Certificate ID or Name`
 
 8. Scroll down to the bottom and click the **Apply** button
 
-## Step 5: Create Alias for subdomain to use Elastic beanstalk
+## Step Five: Create Alias for subdomain to use Elastic beanstalk
 1. Search for Route53 on AWS Services
 2. Click on `Hosted zones` on the route53 dashboard 
     ![Hosted-zones-button](./assets/hosted-zone/hosted-zone-button.png)
@@ -135,7 +135,7 @@ Click on the `Certificate ID or Name`
 
 6. If everything was done correctly, a success message will appear.
 
-## Step 6: Redirect HTTP to HTTPS
+## Step Six: Redirect HTTP to HTTPS
 1. Search for EC2 and click on the search result
 ![ec2-search](./assets/redirect/ec2-search.png)
 2. Click on `Load Balancers` on the side menu
@@ -158,4 +158,4 @@ Click on the `Certificate ID or Name`
 
 **Successfully modified listener message should display if successful**
 
-**Enter your newly created subdomain in a browser, it should have https.**
+**Enter your newly created subdomain in a browser, it should have https.**k
